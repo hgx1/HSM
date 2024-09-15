@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cryptoki">
+    <Position X="1.25" Y="1" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAIAQAAAAIAAAAAAABAAABAAAAAgAAAAEE=</HashCode>
+      <FileName>cryptoki.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Widget">
+    <Position X="9.75" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAEAAAAAAAQAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>widget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
